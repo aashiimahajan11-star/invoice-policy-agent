@@ -7,6 +7,19 @@ An agentic AI workflow that reviews supplier invoices against a company's expens
 > Built as a small demonstration of the agentic AI pattern described by PwC, OpenAI and Anthropic — separating LLM reasoning from deterministic policy code.
 
 ---
+## How it works (walkthrough)
+
+1. Upload an invoice (text, .txt, or PDF):
+![Upload step](screenshot1.png)
+
+2. The agent extracts structured data:
+![Extraction step](screenshot2.png)
+
+3. The agent decides which policy checks to run:
+![Tool calls](screenshot3.png)
+
+4. The agent produces a final exception report:
+![Final report](screenshot4.png)
 
 ## What it does
 
