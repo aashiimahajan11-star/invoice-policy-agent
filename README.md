@@ -113,4 +113,4 @@ I wanted to understand the agentic AI pattern by building it, not by reading abo
 
 
 
-**Built by [Aashi Mahajan](https://www.linkedin.com/in/[TODO-your-linkedin-handle]/)** — exploring agentic AI applications in finance, compliance, and operations.
+**Built by [Aashi Mahajan](https://www.linkedin.com/in/aashimahajan11/)** — exploring agentic AI applications in finance, compliance, and operations.
