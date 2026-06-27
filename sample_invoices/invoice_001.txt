@@ -1,0 +1,32 @@
+ACME OFFICE SUPPLIES LTD
+Unit 4, Business Park
+Cork, T12 AB34, Ireland
+VAT: IE9876543C
+
+INVOICE
+
+Invoice Number: INV-2026-0847
+Invoice Date: 14 June 2026
+Due Date: 28 June 2026
+
+Bill To:
+NorthStar Consulting Ltd
+12 Patrick Street
+Cork, T12 X1Y2
+
+PO Reference: PO-2026-0312
+
+------------------------------------------
+Description              Qty     Unit Price    Total
+------------------------------------------
+Office chairs (ergonomic)  4      €285.00    €1,140.00
+Standing desks             2      €420.00      €840.00
+Monitor stands            10       €45.00      €450.00
+------------------------------------------
+                              Subtotal:     €2,430.00
+                              VAT (23%):      €558.90
+                              TOTAL:        €2,988.90
+
+Payment Terms: Net 14
+Bank: AIB
+IBAN: IE12 AIBK 9311 5212 3456 78
